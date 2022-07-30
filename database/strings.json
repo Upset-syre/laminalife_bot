@@ -1,0 +1,86 @@
+{
+    "uz": {
+        "start_message": [
+            "😊 Assalomu alaykum!\n\n🍀 LaminaLife kompaniyasining rasmiy botiga xush kelibsiz!"
+        ],
+        "services": [
+            "🍔 Ortiqcha vazn",
+            "👫 Jinsiy zaiflik",
+            "Qandli diabet",
+            "🩺 Qon bosimi kasalliklari",
+            "🫁 Nafas olish tizimii kasalliklari",
+            "🦴 Suyak kasalliklari",
+            "Immunitet tanqisligi",
+            "Hazm qilish tizimi kasalliklari",
+            "🙎‍♀️ ️Onkologik kasalliklar",
+            "👩‍❤️‍👨 Erkak va ayolda uchraydigan kasalliklar"
+        ],
+        "services_reply_message": [
+            "🍀 \"Laminalife\" – tarkibidagi alginat polisaxaridi oshqozon-ichak yo'llarini tozalab, bel va jigar atrofidagi keraksiz yog'larni eritadi, hazm qilish sistemasini normallashtiradi.",
+            "🙎‍♀️♂ \"Laminalife\" mahsuloti 100% tabiiy bo'lib, erkaklarda prostata bezi yallig'lanishining oldini oladi, adenomani bartaraf qilib, jinsiy faoliyatni yaxshilashda yordam beradi. Erkaklik kuchi va jinsiy faollikni oshiradi. Bepushtlik hamda prostata bezi adenomasidan aziyat chekkan erkaklar uchun alohida ta’sirga ega.",
+            "🍀 \"Laminalife\" ichakdagi qandning so'rilishini sekinlashtiradi, shu bilan birga, ovqatdan so'ng qondagi qand miqdorining keskin ko'tarilishining oldini oladi. Bu insulin chiqarilishini tartibga solib, to'qimalarning ushbu gormon ta'siriga sezgirligini oshiradi. Gormonal disbalansning oldini oladi.",
+            "🍀 \"Laminalife\" mahsuloti tarkibidagi K, Ca, Na makroelementlari yurak kardiomiotsitlari tarkibiga kirib, ularning samarali qisqarishida muhim o'rin tutadi va natijada yurak yetishmovchiligining oldini olishda, taxikardiyada yordam beradi.",
+            "“Laminalife” nafas olish yo'llarini infeksiya, toksin va viruslardan tozalashga yordam beradi. Immunitetni ko'tarib, nafas yo'llarini kerakli element va vitaminlar bilan oziqlantiradi. Mahsulot tarkibidagi fukoidan esa nafas yo'llarida paydo bo'ladigan onkologik kasalliklarning oldini olishga va davolashga yordam beradi.",
+            "🍀 \"Laminalife\" mahsuloti tarkibidagi trepang ekstrakti mushaklarni va mo'rtlashgan suyaklarni qayta tiklashga yordam beradi. \"Laminalife\" nafaqat iste’mol qilinadi, shu bilan birga, tashqi tomondan malham qilib surtilsa terini  oziqlantirib, og'riqlarni bosishga yordam beradi.",
+            "🍀 \"Laminalife\" tarkibidagi trepang ekstrakti odam uchun patogen bo'lgan viruslar, bakteriyalar, zamburug'larga va mikroblarga qarshi tasirga ega faol moddalarni o'z ichiga oladi. Mahsulotni iste'mol qilish orqali inson immunitetining koʻtarilishi natijasida organizmga bakterial, zamburug'li va virusli infeksiyalar bilan samarali kurashish imkonini beradi.",
+            "🍀 Mahsulot tarkibidagi laminarin polisaxaridi oshqozon-ichak yo'llaridagi qon tomirlarini tozalaydi va qon aylanishini yaxshilaydi, vitaminlar bilan oziqlantiradi. Natijada sizda hazm qilish sistemangiz funksiyasi yaxshilanadi. Shu bilan birga, mahsulot tarkibidagi fukoidan polisaxaridi oshqozon-ichak saratonining kelib chiqishining oldini oladi.",
+            "\"Laminalife\" mahsuloti tarkibiga kiruvchi fukoidan polisaxaridi saraton hujayralarining rivojlanishiga to'sqinlik qiladi va ko'payishining oldini oladi. Organizmni kerakli makro va mikroelementlar bilan to'yintiradi, immunitetni ko'taradi. Natijada kimyoviy muolajadan keyingi organizmning qayta tiklanishi oson kechadi.",
+            "👨🏻\"Laminalife\" - yallig'lanishni yumshatadi, uretral kanalni (natriy alginat) tozalaydi. Adenoma hajmi kamayadi (o'sma o'lchamiga qarab to'liq yo'q bo'lib ketishi ham mumkin).\n👩‍🦰 Ayollarda ham \"Laminalife\"ni qabul qilishda saratondan himoya qiluvchi vosita bo'lgan fukoidan tufayli mioma va kistalar odatda qisqaradi yoki butunlay yo'qoladi. Fukoidan saraton hujayralarining o'sishini to'sadi va mikro va makroelementlarga, aminokislotalarga va antioksidantlarga boy \"Laminalife\" tarkibi organ hujayralarini oziqlantiradi. Alginik kislotalar yallig'lanishini yengillashtiradi."
+        ],
+        "phone_number_message": "☺️ Kasallik va mahsulot haqida malakali mutaxassislarimiz batafsil ma'lumot berishadi. Bepul konsultatsiya va mahsulot narxini bilish uchun telefon raqamingizni qoldiring!",
+        "phone_number_button": "📞 Telefon raqamimni jo'natish",
+        "other_phone_number_message": "✔️ Raqamingiz ro'yxatdan o'tdi.\n🤝 Tushunmovchiliklar bo'lmasligi uchun, iltimos, qaytadan tekshirib ko'ring yoki ishlaydigan qo'shimcha telefon raqam qoldiring!",
+        "no_phone_number_button": "⏩ O'tkazib yuborish",
+        "result_message": "😊 Ishonchingiz uchun raxmat!\n📞 Kun davomida malakali mutaxassislarimiz siz bilan bog'lanishadi.",
+        "handler_message": [
+            "Ismi: ",
+            "Familiyasi: ",
+            "Muammo: ",
+            "Telefon raqami: ",
+            "Boshqa telefon raqami: "
+        ],
+        "mainmenu_button": "Bosh sahifa"
+    },
+    "ru": {
+        "start_message": [
+            "😊 Здравствуйте!\n\n🍀 Добро пожаловать на официальный бот компании LaminaLife"
+        ],
+        "services": [
+            "Ortiqcha vazn",
+            "Jinsiy zaiflik",
+            "Qandli diabet",
+            "Qon bosimi kasalliklari",
+            "Nafas olish tizimii kasalliklari",
+            "Suyak kasalliklari",
+            "Immunitet tanqisligi",
+            "Hazm qilish tizimi kasalliklari",
+            "Onkologik kasalliklar",
+            "Erkak va ayolda uchraydigan kasalliklar"
+        ],
+        "services_reply_message": [
+            "🍀 \"Laminalife\" – tarkibidagi alginat polisaxaridi oshqozon-ichak yo'llarini tozalab, bel va jigar atrofidagi keraksiz yog'larni eritadi, hazm qilish sistemasini normallashtiradi.",
+            "🙎🏻♂ \"Laminalife\" mahsuloti 100% tabiiy bo'lib, erkaklarda prostata bezi yallig'lanishining oldini oladi, adenomani bartaraf qilib, jinsiy faoliyatni yaxshilashda yordam beradi. Erkaklik kuchi va jinsiy faollikni oshiradi. Bepushtlik hamda prostata bezi adenomasidan aziyat chekkan erkaklar uchun alohida ta’sirga ega.",
+            "🍀 \"Laminalife\" ichakdagi qandning so'rilishini sekinlashtiradi, shu bilan birga, ovqatdan so'ng qondagi qand miqdorining keskin ko'tarilishining oldini oladi. Bu insulin chiqarilishini tartibga solib, to'qimalarning ushbu gormon ta'siriga sezgirligini oshiradi. Gormonal disbalansning oldini oladi.",
+            "🍀 \"Laminalife\" mahsuloti tarkibidagi K, Ca, Na makroelementlari yurak kardiomiotsitlari tarkibiga kirib, ularning samarali qisqarishida muhim o'rin tutadi va natijada yurak yetishmovchiligining oldini olishda, taxikardiyada yordam beradi.",
+            "“Laminalife” nafas olish yo'llarini infeksiya, toksin va viruslardan tozalashga yordam beradi. Immunitetni ko'tarib, nafas yo'llarini kerakli element va vitaminlar bilan oziqlantiradi. Mahsulot tarkibidagi fukoidan esa nafas yo'llarida paydo bo'ladigan onkologik kasalliklarning oldini olishga va davolashga yordam beradi.",
+            "🍀 \"Laminalife\" mahsuloti tarkibidagi trepang ekstrakti mushaklarni va mo'rtlashgan suyaklarni qayta tiklashga yordam beradi. \"Laminalife\" nafaqat iste’mol qilinadi, shu bilan birga, tashqi tomondan malham qilib surtilsa terini  oziqlantirib, og'riqlarni bosishga yordam beradi.",
+            "🍀 \"Laminalife\" tarkibidagi trepang ekstrakti odam uchun patogen bo'lgan viruslar, bakteriyalar, zamburug'larga va mikroblarga qarshi tasirga ega faol moddalarni o'z ichiga oladi. Mahsulotni iste'mol qilish orqali inson immunitetining koʻtarilishi natijasida organizmga bakterial, zamburug'li va virusli infeksiyalar bilan samarali kurashish imkonini beradi.",
+            "🍀 Mahsulot tarkibidagi laminarin polisaxaridi oshqozon-ichak yo'llaridagi qon tomirlarini tozalaydi va qon aylanishini yaxshilaydi, vitaminlar bilan oziqlantiradi. Natijada sizda hazm qilish sistemangiz funksiyasi yaxshilanadi. Shu bilan birga, mahsulot tarkibidagi fukoidan polisaxaridi oshqozon-ichak saratonining kelib chiqishining oldini oladi.",
+            "\"Laminalife\" mahsuloti tarkibiga kiruvchi fukoidan polisaxaridi saraton hujayralarining rivojlanishiga to'sqinlik qiladi va ko'payishining oldini oladi. Organizmni kerakli makro va mikroelementlar bilan to'yintiradi, immunitetni ko'taradi. Natijada kimyoviy muolajadan keyingi organizmning qayta tiklanishi oson kechadi.",
+            "👨🏻\"Laminalife\" - yallig'lanishni yumshatadi, uretral kanalni (natriy alginat) tozalaydi. Adenoma hajmi kamayadi (o'sma o'lchamiga qarab to'liq yo'q bo'lib ketishi ham mumkin).\n👩‍🦰 Ayollarda ham \"Laminalife\"ni qabul qilishda saratondan himoya qiluvchi vosita bo'lgan fukoidan tufayli mioma va kistalar odatda qisqaradi yoki butunlay yo'qoladi. Fukoidan saraton hujayralarining o'sishini to'sadi va mikro va makroelementlarga, aminokislotalarga va antioksidantlarga boy \"Laminalife\" tarkibi organ hujayralarini oziqlantiradi. Alginik kislotalar yallig'lanishini yengillashtiradi."
+        ],
+        "phone_number_message": "☺️ Наши опытные специалисты предоставят информацию о заболевании и продукте. Оставьте свой номер телефона, чтобы получить бесплатную консультацию и цены продукта!",
+        "phone_number_button": "📞 Отправить номер телефона",
+        "other_phone_number_message": "✔️ Raqamingiz ro'yxatdan o'tdi.\n🤝 Tushunmovchiliklar bo'lmasligi uchun, iltimos, qaytadan tekshirib ko'ring yoki ishlaydigan qo'shimcha telefon raqam qoldiring!",
+        "no_phone_number_button": "⏩ O'tkazib yuborish",
+        "result_message": "😊 Спасибо за ваше доверие\n📞 В течении дня с вами свяжутся наши опытные специалисты.",
+        "handler_message": [
+            "Имя: ",
+            "Фамилия: ",
+            "Проблема: ",
+            "Номер телефона: ",
+            "Boshqa telefon raqami: "
+        ],
+        "mainmenu_button": "Главное меню"
+    }
+}
